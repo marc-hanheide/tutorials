@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to Marc's tutorial overview
 
-You can use the [editor on GitHub](https://github.com/marc-hanheide/tutorials/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## General Information and Tutorials
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* First of all, of course the official ROS tutorials are an excellent resource
+* If you have access to [Jupyter](http://jupyter.org/) (e.g. on https://lcas.lincoln.ac.uk/hub for [L-CAS](https://lcas.lincoln.ac.uk/) members or https://colab.research.google.com/ in general), there is a very [good list of Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks), covering all aspects of programming, scientific computing, ML, etc.
+* General use of [L-CAS software](https://github.com/lcas/rosdistro/wiki#using-the-l-cas-repository-if-you-just-want-to-use-our-software) (enabling our repositories)
 
-### Markdown
+## Dialog Design with DialogFlow for Mobile Robots (Simulation)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[DialogFlow](https://dialogflow.com/) is the framework that fuels the Google Assistant and many other Natural Language Dialog Systems. [DFSimRob](https://github.com/LCAS/robot-dialogflow) is a framework implementing a *fulfillment* server for mobile robots, running entire in simulation in a browser. A robot in a museum can be send around to different exhibits and visitors can have a conversation with a robot. It offers both, a good tutorial on using DialogFlow itself, and designing state-of-the-art dialog systems that are ready to be deployed to real world robots. A demo system with some dialog capabilities is [available](https://lcas.lincoln.ac.uk/simrob/5c66d843be1f4675b80bfd65dcc9e6b4), users can easily build their own dialog agents and [test them in simulation](https://lcas.lincoln.ac.uk/simrob). [Documentation](https://sites.google.com/view/uol-ai-robotics/materials) is available, developed mostly be [Dr Paul Baxter](https://github.com/paul-baxter) in the context of the [AI and Robotics Workshop](https://sites.google.com/view/uol-ai-robotics/home) for School Students originally.
 
-```markdown
-Syntax highlighted code block
+## STRANDS-related tutorials
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marc-hanheide/tutorials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Materials](https://github.com/strands-project/lamor15/wiki) from STRANDS Summer School 2015 (LAMoR 15)
+* [Executor and Scheduler](https://github.com/strands-project/strands_executive)
+* [Topological Navigation](https://github.com/strands-project/strands_navigation/wiki/Quick-Topological-Navigation-in-simulation-tutorial) Quick Tutorials

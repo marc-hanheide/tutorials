@@ -10,6 +10,8 @@
 
 [DialogFlow](https://dialogflow.com/) is the framework that fuels the Google Assistant and many other Natural Language Dialog Systems. [DFSimRob](https://github.com/LCAS/robot-dialogflow) is a framework implementing a *fulfillment* server for mobile robots, running entire in simulation in a browser. A robot in a museum can be send around to different exhibits and visitors can have a conversation with a robot. It offers both, a good tutorial on using DialogFlow itself, and designing state-of-the-art dialog systems that are ready to be deployed to real world robots. A demo system with some dialog capabilities is [available](https://lcas.lincoln.ac.uk/simrob/5c66d843be1f4675b80bfd65dcc9e6b4), users can easily build their own dialog agents and [test them in simulation](https://lcas.lincoln.ac.uk/simrob). [Documentation](https://sites.google.com/view/uol-ai-robotics/materials) is available, developed mostly be [Dr Paul Baxter](https://github.com/paul-baxter) in the context of the [AI and Robotics Workshop](https://sites.google.com/view/uol-ai-robotics/home) for School Students originally.
 
+The slides of a specific tutorial given at the University of Valladolid, Spain, are [available here](2018-Valladolid-Tutorial.pdf).
+
 ## STRANDS-related tutorials
 
 * [Materials](https://github.com/strands-project/lamor15/wiki) from STRANDS Summer School 2015 (LAMoR 15)
